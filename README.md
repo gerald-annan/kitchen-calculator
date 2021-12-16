@@ -134,6 +134,10 @@ KitchenCalculator.convert({:teaspoon, 9.0}, :tablespoon)
 
 ## Source
 
+### Solved by
+
+- @gerald-annan
+
 ### Created by
 
 - @neenjaw
